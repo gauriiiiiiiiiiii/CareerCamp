@@ -1,0 +1,14 @@
+node_modules/
+.env
+dump.rdb
+production_logs/
+.vscode/
+.vercel"config/env_config.json" 
+.env_config.json
+config/env_config.json
+
+"config/env_config.json" 
+config/env_config.json
+ENV_FORMAT.json
+.env
+.env.* 
