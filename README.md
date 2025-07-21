@@ -334,13 +334,6 @@ ENV_FORMAT.json      # Environment variable template
 - MongoDB (local or cloud)
 - npm
 
-### Installation
-```bash
-git clone https://github.com/Ayush-Kanduri/Placement-Cell-Application.git
-cd Placement-Cell-Application
-npm install
-```
-
 ### Environment Variables
 Copy `ENV_FORMAT.json` to `.env` and fill in the required values:
 ```json
