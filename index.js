@@ -56,7 +56,7 @@ const viewHelpers = require("./config/view-helpers")(app);
 app.use(
   session({
     name: "career_camp",
-    secret: env.session_cookie_key,
+    secret: process.env.SESSION_SECRET || env.session_cookie_key || 'someSuperSecretValue',
     saveUninitialized: false,
     resave: false,
     cookie: {
