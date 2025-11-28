@@ -1,27 +1,6 @@
 # 🚀 Career Camp: College Placement Drive App
 
-Welcome to **Career Camp** — the ultimate, production-grade platform for managing college placement drives! 🎓💼
-
----
-
-## 📚 Table of Contents
-- [Project Vision & Motivation](#project-vision--motivation)
-- [Key Features](#key-features)
-- [Tech Stack & Why Each Choice](#tech-stack--why-each-choice)
-- [Architecture & Design](#architecture--design)
-- [Folder & File Structure: Deep Dive](#folder--file-structure-deep-dive)
-- [Implementation Details](#implementation-details)
-- [Security Practices](#security-practices)
-- [Performance & Optimization](#performance--optimization)
-- [Testing & Deployment](#testing--deployment)
-- [Challenges & Problem Solving](#challenges--problem-solving)
-- [Impact & Evaluation](#impact--evaluation)
-- [Scalability & Future Work](#scalability--future-work)
-- [Project Management & Collaboration](#project-management--collaboration)
-- [Data Structures & Algorithms](#data-structures--algorithms)
-- [Behavioral & Learning Outcomes](#behavioral--learning-outcomes)
-- [Setup & Usage](#setup--usage)
-- [Contribution Guidelines](#contribution-guidelines)
+The ultimate, production-grade platform for managing college placement drives! 🎓💼
 
 ---
 
@@ -360,16 +339,5 @@ Copy `ENV_FORMAT.json` to `.env` and fill in the required values:
 - **Development**: `npm run dev_start`
 - **Production**: `npm run prod_start`
 - **Build Assets**: `gulp build`
-
----
-
-## 🤝 Contribution Guidelines
-1. **Fork** the repository
-2. **Create** your feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-Let's make **Career Camp** even better together! 🌟
 
 ---
